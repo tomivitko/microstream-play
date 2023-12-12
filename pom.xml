@@ -50,6 +50,12 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>one.microstream</groupId>
+			<artifactId>microstream-persistence-binary</artifactId>
+			<version>08.01.01-MS-GA</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
